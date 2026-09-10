@@ -1,5 +1,7 @@
 # soc-lab-zabbix-elastic
 ## Podstawowy SOC Monitoring brute force z użyciem Elastica oraz Zabbixa
+W folderze "docs" znajduje się 6 rozdziałów dotyczących projektu.
+
 ## Demo 
 
 [Link do filmu](https://youtu.be/9ycMczrRHKo)
